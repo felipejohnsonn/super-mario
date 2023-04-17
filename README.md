@@ -12,7 +12,7 @@
 
 Simples jogo do Super Mario. 
 
--  [mario-psi.vercel.app](https:/)
+-  [mario-psi.github.io](https://felipejohnsonn.github.io/super-mario/)
 
 ## 🚀 Tecnologias
 
